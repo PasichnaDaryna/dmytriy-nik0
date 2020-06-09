@@ -280,6 +280,12 @@ background-size: cover;
   padding-right: auto;
 }
 
+.mira {
+  width: 180px;
+  height: 180px;
+  size: inherit;
+}
+
 .hero-title {
   margin-bottom: 56px;
   padding-top: 200px;

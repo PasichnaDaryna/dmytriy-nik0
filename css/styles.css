@@ -514,7 +514,7 @@ justify-content: center;
 }
 
   .social-list .social-item:not(:last-child) {
-    margin-right: 10px;
+    margin-right: 5px;
 }
 .social-item:hover,
 .social-item:focus 
